@@ -1,0 +1,6 @@
+node_modules/
+render-work/
+frames/
+*.wav
+*.mp4
+*-cover.png
